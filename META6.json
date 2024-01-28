@@ -1,14 +1,26 @@
 {
-    "perl" : "6.d",
-    "name" : "Test::Mock",
-    "auth" : "zef:jnthn",
-    "authors" : [ "Jonathan Worthington <jnthn@jnthn.net>" ],
-    "version" : "1.6",
-    "description" : "Creation of stub objects using the Arrange, Act, Assert pattern.",
-    "license"     : "Artistic-2.0",
-    "depends" : [ "OO::Monitors" ],
-    "provides" : {
-        "Test::Mock" : "lib/Test/Mock.rakumod"
-    },
-    "source-url" : "git://github.com/jnthn/test-mock.git"
+  "auth": "zef:raku-community-modules",
+  "authors": [
+    "Jonathan Worthington <jnthn@jnthn.net>"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+    "OO::Monitors"
+  ],
+  "description": "Creation of stub objects using the Arrange, Act, Assert pattern",
+  "license": "Artistic-2.0",
+  "name": "Test::Mock",
+  "perl": "6.d",
+  "provides": {
+    "Test::Mock": "lib/Test/Mock.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "git://github.com/raku-community-modules/Test-Mock.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "1.6"
 }
