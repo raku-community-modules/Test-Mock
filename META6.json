@@ -17,8 +17,10 @@
   },
   "resources": [
   ],
-  "source-url": "git://github.com/raku-community-modules/Test-Mock.git",
+  "source-url": "https://github.com/raku-community-modules/Test-Mock.git",
   "tags": [
+    "TEST",
+    "MOCK"
   ],
   "test-depends": [
   ],

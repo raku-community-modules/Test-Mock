@@ -438,7 +438,7 @@ Jonathan Worthington
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2010 - 2024 Jonathan Worthington
+Copyright 2010 - 2022 Jonathan Worthington
 
 Copyright 2024 Raku Community
 

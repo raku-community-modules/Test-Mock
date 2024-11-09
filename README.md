@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/lizmat/Test-Mock/actions/workflows/test.yml/badge.svg)](https://github.com/lizmat/Test-Mock/actions)
+[![Actions Status](https://github.com/raku-community-modules/Test-Mock/actions/workflows/linux.yml/badge.svg)](https://github.com/raku-community-modules/Test-Mock/actions) [![Actions Status](https://github.com/raku-community-modules/Test-Mock/actions/workflows/macos.yml/badge.svg)](https://github.com/raku-community-modules/Test-Mock/actions) [![Actions Status](https://github.com/raku-community-modules/Test-Mock/actions/workflows/windows.yml/badge.svg)](https://github.com/raku-community-modules/Test-Mock/actions)
 
 NAME
 ====
@@ -248,7 +248,7 @@ Jonathan Worthington
 COPYRIGHT AND LICENSE
 =====================
 
-Copyright 2010 - 2024 Jonathan Worthington
+Copyright 2010 - 2022 Jonathan Worthington
 
 Copyright 2024 Raku Community
 
