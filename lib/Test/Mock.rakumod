@@ -1,5 +1,5 @@
 use Test;
-use Method::Protected:ver<0.0.3>:auth<zef:lizmat>;
+use Method::Protected:ver<0.0.4+>:auth<zef:lizmat>;
 
 class Test::Mock::Log {
     has @!log-entries;

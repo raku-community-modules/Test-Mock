@@ -1,6 +1,8 @@
 Revision history for Test-Mock
 
 {{$NEXT}}
+
+1.8  2025-03-27T18:52:09+01:00
     - Replace dependency on OO::Monitors by Method::Protected, as
       the latter is not dependent on experimental macros
     - Update copyright year
