@@ -1,6 +1,9 @@
 Revision history for Test-Mock
 
 {{$NEXT}}
+    - Replace dependency on OO::Monitors by Method::Protected, as
+      the latter is not dependent on experimental macros
+    - Update copyright year
 
 1.7  2024-11-09T12:19:41+01:00
     - Initial version as a Raku Community Module

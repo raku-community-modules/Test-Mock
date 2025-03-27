@@ -250,7 +250,7 @@ COPYRIGHT AND LICENSE
 
 Copyright 2010 - 2022 Jonathan Worthington
 
-Copyright 2024 Raku Community
+Copyright 2024, 2025 Raku Community
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 

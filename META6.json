@@ -6,7 +6,7 @@
   "build-depends": [
   ],
   "depends": [
-    "OO::Monitors"
+    "Method::Protected:ver<0.0.3>:auth<zef:lizmat>"
   ],
   "description": "Creation of stub objects using the Arrange, Act, Assert pattern",
   "license": "Artistic-2.0",
