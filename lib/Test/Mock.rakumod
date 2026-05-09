@@ -27,7 +27,7 @@ class Test::Mock::Log {
             else {
                 @calls .= grep({ .<capture> ~~ $with });
             }
-            $with-args-note = " with arguments matching $with.perl()";
+            $with-args-note = " with arguments matching $with.raku()";
         }
 
         # Enforce times parameter, if given.
